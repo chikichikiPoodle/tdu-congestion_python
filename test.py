@@ -25,3 +25,5 @@ for x, y, w, h in facerect:
 
 # ファイルを保存
 cv2.imwrite(output_file, image)
+
+#pppp
